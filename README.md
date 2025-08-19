@@ -8,3 +8,6 @@ Capstone B
 4) Click "New token"
 5) Give it a name and select "Read" permissions
 6) Copy the token (starts with "hf_")
+
+
+Please download the notebook if you cannot access here. Open the notebook with colab to see the outputs.
